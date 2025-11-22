@@ -1,0 +1,5 @@
+{
+  "name": "Grandmaster Chess",
+  "description": "A full-stack capable chess application featuring Human vs AI with varying difficulties, Local/Simulated Online PvP, and a comprehensive user dashboard with statistics.",
+  "requestFramePermissions": []
+}
